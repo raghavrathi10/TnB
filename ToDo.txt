@@ -1,0 +1,4 @@
+1. Add description in the readme
+2. Create an example follow along so that anyone can run the source code. 
+3. Add some example traces with description, and what to expect. 
+4. Maybe add some plots describing the trace. 
