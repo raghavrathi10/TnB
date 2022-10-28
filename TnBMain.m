@@ -2,6 +2,8 @@
 % Florida State University 
 % All Rights Reserved
 
+% FOR EDUCATION AND ADADEMIC RESEARCH ONLY 
+
 TraceName = '../AEexpdata/outdoor1-SF8-CR4'; 
 SF = 8;
 
