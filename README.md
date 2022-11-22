@@ -22,4 +22,4 @@ We used Adafruit Feather M0 with RFM95 LoRa Radio 900 MHz in our experiments wit
 
  * Our LoRa device transmits a preamble that starts with 8 upchirps, followed by a symbol with peak at 9, then a symbol with peak at 17, then 2.25 downchirps.
  * A transmitted packet starts with 4 bytes of header, followed by 2 bytes as the node ID, 2 bytes as the packet sequence number, 6 bytes of data, then 2 bytes of CRC. Other packet format can also be decoded by TnB, as long as the last two bytes are the CRC. 
-• The signal was sampled by a USRP B210 at 1 Msps, where each sample consists of a real part and an imaginary part, both as 16-bit integers.
+ * The signal was sampled by a USRP B210 at 1 Msps, where each sample consists of a real part and an imaginary part, both as 16-bit integers.
